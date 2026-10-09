@@ -16,13 +16,13 @@ DEBS_DIR="$REPO_DIR/debs"
 OUT_DIR="$REPO_DIR"
 
 # 源信息 (发布前按需修改)
-REPO_NAME="${REPO_NAME:-QClaw Cydia Repo}"
-REPO_ORIGIN="${REPO_ORIGIN:-QClaw}"
-REPO_LABEL="${REPO_LABEL:-QClaw Repo}"
+REPO_NAME="${REPO_NAME:-xiaoleng Cydia Repo}"
+REPO_ORIGIN="${REPO_ORIGIN:-xiaoleng}"
+REPO_LABEL="${REPO_LABEL:-xiaoleng Repo}"
 REPO_SUITE="${REPO_SUITE:-stable}"
 REPO_VERSION="${REPO_VERSION:-1.0}"
 REPO_COMPONENT="${REPO_COMPONENT:-main}"
-REPO_DESCRIPTION="${REPO_DESCRIPTION:-QClaw 越狱插件软件源}"
+REPO_DESCRIPTION="${REPO_DESCRIPTION:- 越狱插件软件源}"
 ARCHITECTURES="${ARCHITECTURES:-iphoneos-arm64 iphoneos-arm64e iphoneos-arm}"
 
 command -v dpkg-scanpackages >/dev/null 2>&1 || {
