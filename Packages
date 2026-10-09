@@ -173,6 +173,22 @@ Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
 Author: You
 Name: 微隔离 WeZone
 
+Package: com.wezone.wechatsecretfriend
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: You
+Installed-Size: 1084
+Depends: mobilesubstrate
+Filename: debs/com.wezone.wechatsecretfriend_1.3.1_rootless.deb
+Size: 228130
+MD5sum: 325d83d2543bb6dd2dae0362b7ab5361
+SHA1: cf8c99219f8f972287f6e20e10b16147a6104bb5
+SHA256: d55c17ba31914590654776dda9c7e1fe4d6d28f62d974d1ee7ac311c81cd2013
+Section: Tweaks
+Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
+Author: You
+Name: 微隔离 WeZone
+
 Package: com.yechen.notificationtimerring
 Version: 0.1.121
 Architecture: iphoneos-arm64
