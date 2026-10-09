@@ -7,12 +7,12 @@ Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: QClaw 越狱插件软件源
 MD5Sum:
-  8dc011d9f469877fa7fab7ea0cfca04d 4294 Packages
-  c9ec5635ace09360c22fedfc5b19d3ec 1976 Packages.gz
-  43a5cfa8ca4e4d0cf8de5c93651346c0 2062 Packages.bz2
-  3f40725c8ab2a73004a12a77e00c7fc8 1844 Packages.xz
+  e7732b112db8c3c191ede305b10e3e03 4809 Packages
+  ea09fd3c978a49aa69c3bd16b99ff000 2141 Packages.gz
+  09cec73a600f9091cc55488d11156ada 2207 Packages.bz2
+  f243d824d85975638b95a7585b063791 1988 Packages.xz
 SHA256:
- 29c2777362825626e86feb1b5504d0b2a992a5db1b20fd640b2c687f160acd49 4294 Packages
- 255c006731e5e85336e2db0d74bd3bb2d9272177d1f2772446edfaa1266c6ff7 1976 Packages.gz
- 59c30ea5f3a135f46bfa4f96f9fa715cce2cb7e4e736ede2400547ac8dc1ce63 2062 Packages.bz2
- 43bbdf97fefe8a503e56290cb2ee9eba465212110c381ef3354f8f264d04b1fe 1844 Packages.xz
+ 5f0f11a5c462c285a10182f107c9d9dc291fa35f8c5c7c13ef95b40aa770dfa7 4809 Packages
+ 2a6b7f3b00652aa2e323fd2479dca05208cfed997317b3cb8044564d84a0cfe9 2141 Packages.gz
+ 10f90bbf7ea63e8fd329382eca84f770b88564bd36059740a5420d9e68df9de6 2207 Packages.bz2
+ ac126e782d07a38e32a691c0a0fc117c4dce27a2d4c3ec4d0dee8e49a05b0a5c 1988 Packages.xz
