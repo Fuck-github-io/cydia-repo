@@ -1,18 +1,18 @@
-Origin: xiaoleng
-Label: xiaoleng Repo
+Origin: QClaw
+Label: QClaw Repo
 Suite: stable
 Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
-Description: 自用越狱插件软件源破解而生
+Description: QClaw 越狱插件软件源
 MD5Sum:
-  19ae96d66dd5b8ce98048ca30102042e 5892 Packages
-  0fd92fb16cfee03dba486177b323f09f 2589 Packages.gz
-  2b83c10adf8561147c3aea0307c6b2e0 2639 Packages.bz2
-  8a16599ecc80854aa73c1589616f1b49 2392 Packages.xz
+  cfe2a21716aa129d98f6560be7308c72 6397 Packages
+  786003ee321e325794aab088d9d8a7d3 2792 Packages.gz
+  4368643f8a1d4d157c2876c92d6543af 2822 Packages.bz2
+  d8a58d973073da7682bb0c9a604f25b1 2572 Packages.xz
 SHA256:
- 038466a36c19a0b409fbdada43024070893819a3c36d46c43ac6e62f7646ca85 5892 Packages
- 03054cee8deedae5f1f171323750595f070bfb7ecec18ad55ec027987690fe18 2589 Packages.gz
- f0a5cd0d2347cbd55f13a62198fba32e4d7956549a26e9960ef2b5af6bf418c6 2639 Packages.bz2
- 91b9e7dcb5348ee3a6c13feee8ae3ebd3eea85c158ca35ea5bbf1ba65b411de9 2392 Packages.xz
+ 39a6acf77897618a049bd2a51b025b8df58ca7d4a0f17f3bffc6895761a21529 6397 Packages
+ e438f3b6eb1aaff2355f3292853b361f481f1ef874825d1f4e1dacd0ed20c195 2792 Packages.gz
+ 50aed574d99c83b24b2ef79a68bb4c131ac1812212ff30c4c3e536225a81d297 2822 Packages.bz2
+ d24f9266020f7aca20030124c6e594465d8790bbbe19b3613249b1ba2e8b2c23 2572 Packages.xz
