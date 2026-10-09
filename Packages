@@ -49,6 +49,21 @@ Description: 原生键盘皮肤修改。
 Author: Charlie
 Name: NativeKeyboardSkin
 
+Package: com.local.ccaplayer.reextract
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: Local build
+Depends: firmware (>= 16.0), firmware (<= 18.5), mobilesubstrate, preferenceloader
+Filename: debs/com.local.ccaplayer.reextract_2.5_rootless.deb
+Size: 95028
+MD5sum: ab3e3d7886862fbbbc77c441fce20d83
+SHA1: d9931b761c2365f54a0780d6155a881727fc2d5a
+SHA256: 34a5ebd08d207eff0cb2fd49686203b6b0cf76419bb37ee1bd9b027c622486e3
+Section: Tweaks
+Description: 黄俊烽
+Author: Jenia; original media internals credit therealhoodboy / CC26
+Name: 系统播放器
+
 Package: com.qclaw.douyinassetdumper
 Version: 2.2.0
 Architecture: iphoneos-arm64
@@ -141,4 +156,20 @@ Section: Tweaks
 Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
 Author: You
 Name: 微隔离 WeZone
+
+Package: com.yechen.notificationtimerring
+Version: 0.1.121
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 1172
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: debs/com.yechen.notificationtimerring_0.1.121_rootless.deb
+Size: 238270
+MD5sum: ed0d6e187f217ef7a9881fbe4cbb5efb
+SHA1: 2804e93f2cd4d02bd660f1339df19884970113f8
+SHA256: ee5527d24a4ec0e333962d36cfedd7b66ba9afc6ebda66ad2f6dcba206155f5b
+Section: Tweaks
+Description: 一款简单的通知特效
+Author: 夜辰
+Name: 通知特效岛
 
