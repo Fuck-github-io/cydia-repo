@@ -1,11 +1,11 @@
-Origin: QClaw
-Label: QClaw Repo
+Origin: xiaoleng
+Label: xiaoleng Repo
 Suite: stable
 Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
-Description: QClaw 越狱插件软件源
+Description: 自用越狱插件软件源破解而生
 MD5Sum:
   19ae96d66dd5b8ce98048ca30102042e 5892 Packages
   0fd92fb16cfee03dba486177b323f09f 2589 Packages.gz
