@@ -23,7 +23,7 @@ REPO_SUITE="${REPO_SUITE:-stable}"
 REPO_VERSION="${REPO_VERSION:-1.0}"
 REPO_COMPONENT="${REPO_COMPONENT:-main}"
 REPO_DESCRIPTION="${REPO_DESCRIPTION:-QClaw 越狱插件软件源}"
-ARCHITECTURES="${ARCHITECTURES:-iphoneos-arm64 iphoneos-arm}"
+ARCHITECTURES="${ARCHITECTURES:-iphoneos-arm64 iphoneos-arm64e iphoneos-arm}"
 
 command -v dpkg-scanpackages >/dev/null 2>&1 || {
     echo "错误: 未找到 dpkg-scanpackages, 请先安装 dpkg (brew install dpkg)" >&2
