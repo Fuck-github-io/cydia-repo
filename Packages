@@ -14,6 +14,22 @@ Description: 这一款全新的开关主题，以半透的风格绘制的三勾�
 Author: 白衣
 Name: SwitchTheme
 
+Package: com.binglanqjsy.deb
+Version: 4.1.7-end
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 2576
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.binglanqjsy.deb_4.1.7-end_iphoneos-arm64.deb
+Size: 347296
+MD5sum: 7132c4c4438ef2a8426ea72b06159903
+SHA1: 9c4c06a4c2dabf3a153c07fa9138f51e429ecaec
+SHA256: e6cddc2493704791bb7c6650e86ea9366fec710f307c88863ca79facb461c54d
+Section: Tweaks
+Description: 让简单截图，拥有更多可能。
+Author: 冰蓝
+Name: 全局水印Pro
+
 Package: com.charlie.nativekeyboardskin
 Version: 1.3.1-1
 Architecture: iphoneos-arm64e
