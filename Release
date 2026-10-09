@@ -1,0 +1,18 @@
+Origin: QClaw
+Label: QClaw Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm64 iphoneos-arm
+Components: main
+Description: QClaw 越狱插件软件源
+MD5Sum:
+  0c862ffab8992149f5f6da00be784683 3123 Packages
+  00dc67d4cfacb32153ce74c55cc800c7 1534 Packages.gz
+  8be780350effe4bc208390d2b402211b 1614 Packages.bz2
+  6f74087cc8d85699e09095f4642365de 1456 Packages.xz
+SHA256:
+ 80ec2b6af2786b8766c41d0800edc17faf18f54f2ab6f7d0e60b7c09b1d8fadc 3123 Packages
+ 74458069398f2990c4ed7fbe3b168bd84f5f40f0e0ec05e93633cad7a5fdb9e2 1534 Packages.gz
+ e93d01026ce929320ba9e247b225499091b3bd436a0752fcfbb715bb85ed0c3f 1614 Packages.bz2
+ ae16397ac963af06386ed6897855fecdaad489a49ff1e5d36594879cedcada1b 1456 Packages.xz

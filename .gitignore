@@ -1,0 +1,6 @@
+# 系统文件
+.DS_Store
+
+# 说明: 软件源仓库必须包含索引文件 (Packages/Release) 和 deb 包
+# 索引文件由 build_repo.sh 生成, 需随仓库一起提交, 设备才能读取
+# deb 包也需提交 (debs/ 目录), 否则设备无法下载安装

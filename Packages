@@ -1,0 +1,95 @@
+Package: com.charlie.nativekeyboardskin
+Version: 1.3.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Charlie
+Installed-Size: 1580
+Conflicts: com.charlie.nativekeyboardskindebug
+Replaces: com.charlie.nativekeyboardskindebug
+Filename: debs/com.charlie.nativekeyboardskin_1.3.1-1_noverify.deb
+Size: 760828
+MD5sum: 35998cd277af47084446152e5e5b956b
+SHA1: c8bacd4c51a6fb0236687b9ccfbeaa6b877d5be7
+SHA256: 73632dc6cf320bdd70d946deb8691cedc41c3045be06e0f323e97da992bb7894
+Section: Tweaks
+Description: 原生键盘皮肤修改 (去验证版)
+Tag: role::hacker
+Author: Charlie
+Name: NativeKeyboardSkin
+
+Package: com.qclaw.douyinassetdumper
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: QClaw
+Depends: mobilesubstrate
+Filename: debs/com.qclaw.douyinassetdumper_2.2.0_rootless.deb
+Size: 12130
+MD5sum: 21018ff172d88e611d4acbbf4e936030
+SHA1: 9ec84ce5927c1f7137c630fbddb795fa19b5829d
+SHA256: c6a63c53500774e5d07efb0bbd375855a01a5dfd4720dbd29e8223c0b8af1325
+Section: Tweaks
+Description: 抖音图标命名弹窗版 v2.2：双指任意页面长按 0.4 秒呼出
+Author: QClaw
+Name: DouyinAssetDumper
+
+Package: com.qclaw.wechatantirevoke
+Version: 6.0.0
+Architecture: iphoneos-arm64
+Maintainer: QClaw
+Depends: mobilesubstrate
+Filename: debs/com.qclaw.wechatantirevoke_6.0.0_rootless.deb
+Size: 11212
+MD5sum: dabdfe3d495bc25b2d3dbc89bd52d2c0
+SHA1: 71e94921f8ae6cf7f0d288c809b20364d7daa12f
+SHA256: 145eea8faf9db25bbda08591b2aba73c121e808966126330fd48eedd8aa0e165
+Section: Tweaks
+Description: 微信防撤回 v6 — 用LocalID反查原始内容，下方显示撤回内容提示
+Tag: role::hacker
+Name: WeChatAntiRevoke
+
+Package: com.qclaw.wechatnohotupdate
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: QClaw
+Depends: mobilesubstrate
+Filename: debs/com.qclaw.wechatnohotupdate_2.0.0_rootless.deb
+Size: 8924
+MD5sum: 0203eddbf1081dacd78ac97af63fe2d0
+SHA1: fc5633ccb498a8d4d1e425cdfa64e2f1adc5b592
+SHA256: 6583b873ce1433ac2745cd7ed443d320615f1ccd80a1e0eee860d12cd5c97181
+Section: Tweaks
+Description: 禁止微信热更新 - dylib注入版
+Tag: role::hacker
+Author: QClaw
+Name: WeChatNoHotUpdate
+
+Package: com.wechatassistant
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: You
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/WeChatAssistant_1.0.0_iphoneos-arm.deb
+Size: 10202
+MD5sum: 96730f5ce5dff3233864421e73972af8
+SHA1: 7697c611d111849f8fdf1dac1d680b4276187082
+SHA256: 44b14d7ca08fad417f6110543cc8e81cc71c573007649b6b07b309fe12761401
+Section: Tweaks
+Description: 微信助手 - 防撤回 + 头像缩放 + 防热更新 (整合版)
+Author: You
+Name: WeChatAssistant
+
+Package: com.wezone.wechatsecretfriend
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: WeZone
+Depends: mobilesubstrate
+Filename: debs/com.wezone.wechatsecretfriend_1.0.0_rootless.deb
+Size: 180900
+MD5sum: 13c323671717aa9a14bab7438cf98236
+SHA1: 9fafd3dafed453d628b323609dfee29dfc4e2e20
+SHA256: dc71e3b75c321406700d02ec1bfda2468bc2a2cbb88a1aea513eb2ef31a36527
+Section: Tweaks
+Description: WeZone 微信密友隐藏插件 — 隐藏好友列表、过滤联系人
+Tag: role::hacker
+Name: WeZone（微信密友）
+
