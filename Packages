@@ -126,3 +126,19 @@ Description: WeZone 微信密友隐藏插件 — 隐藏好友列表、过滤联�
 Tag: role::hacker
 Name: WeZone（微信密友）
 
+Package: com.wezone.wechatsecretfriend
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: You
+Installed-Size: 804
+Depends: mobilesubstrate
+Filename: debs/com.wezone.wechatsecretfriend_1.2.0_rootless.deb
+Size: 163640
+MD5sum: d83af7b86454e916ebace61be325fc3c
+SHA1: a1ec3eb6c04291170aaf33a9cfa68481e8553ce8
+SHA256: 1c58d9f561b2f9c2d7db5585c66c5e3bc213fd827bfa7ac7ab57a37008ab311f
+Section: Tweaks
+Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
+Author: You
+Name: 微隔离 WeZone
+
