@@ -128,6 +128,22 @@ Description: 原生键盘皮肤修改。
 Author: Charlie
 Name: NativeKeyboardSkin
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 512
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.2.5_iphoneos-arm64e.deb
+Size: 84284
+MD5sum: b10c0aa94db08e23e852b3280475d78f
+SHA1: 2d10bfb949d67556b006e701a1b539b96b228b3d
+SHA256: b0a711999a4e5e37487f2e752588f37b60a1cbb83491aa03fb9f33ebc090a228
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
 Package: com.local.ccaplayer.reextract
 Version: 2.5
 Architecture: iphoneos-arm64
