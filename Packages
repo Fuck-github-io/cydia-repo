@@ -195,6 +195,24 @@ Dev: 君临
 Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 Name: WCRefine
 
+Package: com.sini921.kayokolite
+Version: 4.3.3-5
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 3044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.sini921.kayokolite_4.3.3-5_iphoneos-arm64e.deb
+Size: 797536
+MD5sum: a8d827a5011c8eb8a86bb68e3d764904
+SHA1: f69f4cb9910674153298f40107f0a57285ccfaa6
+SHA256: 911d7e1f1aff52b03c16c713be368199d9752db3e5879a481822cbe64a76699c
+Section: 越狱插件
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
 Package: com.thefool.dynamicislandanimation
 Version: 0.0.1-233+debug
 Architecture: iphoneos-arm64
