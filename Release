@@ -1,18 +1,18 @@
-Origin: 小冷
-Label: 小冷 Repo
+Origin: QClaw
+Label: QClaw Repo
 Suite: stable
 Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
-Description: 小冷个人使用源 越狱插件软件源
+Description: QClaw 越狱插件软件源
 MD5Sum:
-  bce189407862a4a659d3a24c9d8c31d4 6913 Packages
-  a5d170a701e6dd169901fae4e7951dee 2908 Packages.gz
-  c833cdd6bd4a41f5d0462514c962ff5f 2947 Packages.bz2
-  5f9f45217ad74cad5e0f3daa6abe94ce 2668 Packages.xz
+  8064ab45a1e61ed4785a803f08d548e5 7486 Packages
+  8eacb5584247a2193dfd60c387a99f85 3148 Packages.gz
+  b6417c01383114ecd4d2649374383e80 3139 Packages.bz2
+  ff92f02599a435fca1f234113fc55ffa 2876 Packages.xz
 SHA256:
- d212e4c6a05db4362f0da065393b0746b1847e84ab3282444bd17cd52f36a5f0 6913 Packages
- 8afef10d782f79dc96c9890d70fc70aa97424f0bc7fc3286ec932d3a0d0c075d 2908 Packages.gz
- 0a56c9b8f8a37e0f9587aab0fd654c275d42d309945495979bff166d88f8f404 2947 Packages.bz2
- 3a1db8ec713853caf59ee1e5baba87045d80f4a88bb4e7aa3872bc1f30413416 2668 Packages.xz
+ aa69db107c0a414f968aff4f8233f554670ef9fa613d8c8a337dd8b58cccbb28 7486 Packages
+ 6e0283fe0e38c00bb1f5b8e2249d5932500b8eda6ede3c9a35066c3adaafc6bd 3148 Packages.gz
+ 7d165ee5974a711cd595fed9bc306895de9195915e7f325d428a0b80df3d2d30 3139 Packages.bz2
+ 9a08ccb605db41494e3c3d6b88c8a7ae54f06e54e15a0e2ed91b93116d871547 2876 Packages.xz
