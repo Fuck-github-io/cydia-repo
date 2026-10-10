@@ -197,10 +197,10 @@ Maintainer: You
 Installed-Size: 1084
 Depends: mobilesubstrate
 Filename: debs/com.wezone.wechatsecretfriend_1.3.1_rootless.deb
-Size: 228130
-MD5sum: 325d83d2543bb6dd2dae0362b7ab5361
-SHA1: cf8c99219f8f972287f6e20e10b16147a6104bb5
-SHA256: d55c17ba31914590654776dda9c7e1fe4d6d28f62d974d1ee7ac311c81cd2013
+Size: 229608
+MD5sum: d623e1ad4d58edaac555cd5455e9c491
+SHA1: a7468d7d3043a00b8b02c6067a926279b49534a7
+SHA256: 028dae5ea4b915326f419436fc5df977ee44e973518be0123dd19afb8618495a
 Section: Tweaks
 Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
 Author: You
