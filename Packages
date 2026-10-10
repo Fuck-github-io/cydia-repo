@@ -213,6 +213,21 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
 Name: KayokoLite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
 
+Package: com.tencent.themebox
+Version: 3.0.7
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.tencent.themebox_3.0.7_iphoneos-arm64e.deb
+Size: 9707848
+MD5sum: 8deea4031ac82cb9491a0db37f613ed4
+SHA1: 1dca3744c75be5725996ab8454eb829ebb548407
+SHA256: 82d0027a40e9efb912705988ecc4b4d1acb5570542cf1ccd2ed16d9fdc639571
+Section: Tweaks
+Description: 微信主题盒子
+Author: Mao
+Name: 主题盒子
+
 Package: com.thefool.dynamicislandanimation
 Version: 0.0.1-233+debug
 Architecture: iphoneos-arm64
