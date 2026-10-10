@@ -1,11 +1,11 @@
-Origin: QClaw
-Label: QClaw Repo
+Origin: 小冷
+Label: 小冷自用推荐源
 Suite: stable
 Version: 1.0
 Codename: stable
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
-Description: QClaw 越狱插件软件源
+Description:小冷私人源越狱插件软件源
 MD5Sum:
   8064ab45a1e61ed4785a803f08d548e5 7486 Packages
   8eacb5584247a2193dfd60c387a99f85 3148 Packages.gz
