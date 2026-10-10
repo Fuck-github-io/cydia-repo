@@ -149,6 +149,22 @@ Dev: 君临
 Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 Name: WCRefine
 
+Package: com.thefool.dynamicislandanimation
+Version: 0.0.1-233+debug
+Architecture: iphoneos-arm64
+Maintainer: thefool
+Installed-Size: 2500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.thefool.dynamicislandanimation_0.0.1-233+debug_iphoneos-arm64.deb
+Size: 680242
+MD5sum: 930c8070e058c4b58046579f0fe13a9b
+SHA1: 65d8d85c68c6ddc31da32f3f2b07576dceba1dd6
+SHA256: a15be8238b94010977bed2e5c283edb7e2b5786cfcb73fa2f27f2bc9621e5ea5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: thefool
+Name: DynamicislandAnimation
+
 Package: com.wezone.wechatsecretfriend
 Version: 1.0.0
 Architecture: iphoneos-arm64
