@@ -15,16 +15,16 @@ Author: 白衣
 Name: SwitchTheme
 
 Package: com.baiy.wcgrouping
-Version: 2.0.7
+Version: 2.0.8
 Architecture: iphoneos-arm64
 Maintainer: baiy <961666883>
-Installed-Size: 54292
+Installed-Size: 54708
 Depends: mobilesubstrate
-Filename: debs/com.baiy.wcgrouping_2.0.7_rootless.deb
-Size: 18800106
-MD5sum: 21f1cc5193c0cf8792631cd67655697a
-SHA1: e012b1727dc63a19dc9c20aafcf15938fd66c115
-SHA256: 1b945e76f53002a239b6bc3f9da61e579943a135bdbff5b9acc3c94ad71a6ad4
+Filename: debs/com.baiy.wcgrouping_2.0.8_rootless.deb
+Size: 18910366
+MD5sum: 545d77be80eda3ebd0ed559a19195af9
+SHA1: 3069dbe79e69cd6eb87f6eaacb10c802829eeac2
+SHA256: 26a65e1b23ca58a64cf1194cfbbfd571079bba1903d7d241f0188ba9f9947a3e
 Section: Tweaks
 Description: 给微信添加一些分组过滤。
 Author: baiy <961666883>
