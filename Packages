@@ -67,11 +67,11 @@ Maintainer: baiy <961666883>
 Installed-Size: 54708
 Depends: mobilesubstrate
 Filename: debs/com.baiy.wcgrouping_2.0.8_rootless.deb
-Size: 18910366
-MD5sum: 545d77be80eda3ebd0ed559a19195af9
-SHA1: 3069dbe79e69cd6eb87f6eaacb10c802829eeac2
-SHA256: 26a65e1b23ca58a64cf1194cfbbfd571079bba1903d7d241f0188ba9f9947a3e
-Section: Tweaks
+Size: 18910334
+MD5sum: da0904f650681a1e91f8607a85433d72
+SHA1: 19a96d963e87e4bc02166d874e5f5fdaf7cc3994
+SHA256: 20845af418a73a3c74a7106934bc133978385b6c8163b981c7f321a0d24007cd
+Section: 微信
 Description: 给微信添加一些分组过滤。
 Author: baiy <961666883>
 Name: 白衣の小分组
@@ -181,11 +181,11 @@ Architecture: iphoneos-arm64e
 Maintainer: 热心网友
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: debs/com.qimiao.wcrefine_2.1-9_iphoneos-arm64e.deb
-Size: 10987628
-MD5sum: a61f5dca9256049d8a4f843975aba23c
-SHA1: 2a443eec41363d65dc11d1fd10113d21d1330b71
-SHA256: 53a8ea9b91ec7e71cbfeafbace030b92ad3cc63d0757cd8ff830ceefef74b404
-Section: Tweaks
+Size: 10987584
+MD5sum: 2fbe92b433f8383eea74ea4833e3821e
+SHA1: df99c268e921eca16117bdddbf44815a8d84542a
+SHA256: 37139fad8dab5b9297310f28a1640545bae4f0db2cdb1b3c8066b48a6924ccb4
+Section: 微信
 Priority: optional
 Description: 微信优化的重制版，上百种功能优化你的微信。
 Author: 热心网友
@@ -199,11 +199,11 @@ Architecture: iphoneos-arm64e
 Maintainer: 热心网友
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: debs/com.qimiao.wcrefine_2.2-1_iphoneos-arm64e.deb
-Size: 10959668
-MD5sum: 98f5a70760ec38c7dd1209d8ae1b9cb5
-SHA1: 5f834bed118f75aaef208de827e4a711754ff9d9
-SHA256: 4c4ed9e24afaedf1bef01b8a564946538c17f534838c2e80bad4effdc8dad28e
-Section: Tweaks
+Size: 10959624
+MD5sum: 8b5ccba2e49475d407704873376ac19e
+SHA1: d2e24be31440591dc93fc638a513f69c69c887c6
+SHA256: 32b3cf569421cfa45fc5cbe1fc910e76036dbbb2cc76fd728e3ae2f4bb7adc8e
+Section: 微信
 Priority: optional
 Description: 微信优化的重制版，上百种功能优化你的微信。
 Author: 热心网友
@@ -266,11 +266,11 @@ Architecture: iphoneos-arm64
 Maintainer: WeZone
 Depends: mobilesubstrate
 Filename: debs/com.wezone.wechatsecretfriend_1.0.0_rootless.deb
-Size: 180900
-MD5sum: 13c323671717aa9a14bab7438cf98236
-SHA1: 9fafd3dafed453d628b323609dfee29dfc4e2e20
-SHA256: dc71e3b75c321406700d02ec1bfda2468bc2a2cbb88a1aea513eb2ef31a36527
-Section: Tweaks
+Size: 180856
+MD5sum: bb39cbe4c57ba0f9e00e5fe8577d268f
+SHA1: 4b9d5898d51a67544faa5095375c11e25d5d1204
+SHA256: da95a148ec5fc63948489072d3cfe45cb45b2b55c846db6f0a599b48114ed072
+Section: 微信
 Description: WeZone 微信密友隐藏插件 — 隐藏好友列表、过滤联系人
 Tag: role::hacker
 Name: WeZone（微信密友）
@@ -282,11 +282,11 @@ Maintainer: You
 Installed-Size: 804
 Depends: mobilesubstrate
 Filename: debs/com.wezone.wechatsecretfriend_1.2.0_rootless.deb
-Size: 163640
-MD5sum: d83af7b86454e916ebace61be325fc3c
-SHA1: a1ec3eb6c04291170aaf33a9cfa68481e8553ce8
-SHA256: 1c58d9f561b2f9c2d7db5585c66c5e3bc213fd827bfa7ac7ab57a37008ab311f
-Section: Tweaks
+Size: 163610
+MD5sum: 2f7dd88694273904c4cccbfd65229533
+SHA1: 2ab738c24b1ec6cb9f0dbc8a7cf8d9ce6f9975c5
+SHA256: 64ad78468b10dc1e9c3a4028245131519f4b04f3a60be3335736bb2e328a21f0
+Section: 微信
 Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
 Author: You
 Name: 微隔离 WeZone
@@ -298,11 +298,11 @@ Maintainer: You
 Installed-Size: 1084
 Depends: mobilesubstrate
 Filename: debs/com.wezone.wechatsecretfriend_1.3.1_rootless.deb
-Size: 229608
-MD5sum: d623e1ad4d58edaac555cd5455e9c491
-SHA1: a7468d7d3043a00b8b02c6067a926279b49534a7
-SHA256: 028dae5ea4b915326f419436fc5df977ee44e973518be0123dd19afb8618495a
-Section: Tweaks
+Size: 229560
+MD5sum: 499d4ff526a7251399d5acdd4456d5d0
+SHA1: 3bac5389eefc6f906bca000907461d3045b57e50
+SHA256: 36b885266f6a611b7a8650a010ea773e7e45ccaea377386595b4ec051c86d897
+Section: 微信
 Description: 微隔离 WeZone - 隐藏指定微信联系人的会话和朋友圈
 Author: You
 Name: 微隔离 WeZone
