@@ -159,6 +159,24 @@ Tag: role::hacker
 Author: QClaw
 Name: WeChatNoHotUpdate
 
+Package: com.qimiao.WCRefine
+Version: 2.1-9
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.qimiao.wcrefine_2.1-9_iphoneos-arm64e.deb
+Size: 10987628
+MD5sum: a61f5dca9256049d8a4f843975aba23c
+SHA1: 2a443eec41363d65dc11d1fd10113d21d1330b71
+SHA256: 53a8ea9b91ec7e71cbfeafbace030b92ad3cc63d0757cd8ff830ceefef74b404
+Section: Tweaks
+Priority: optional
+Description: 微信优化的重制版，上百种功能优化你的微信。
+Author: 热心网友
+Dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Name: WCRefine
+
 Package: com.wechatassistant
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
