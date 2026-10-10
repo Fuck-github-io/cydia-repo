@@ -1,3 +1,19 @@
+Package: com.25mao.BubbleBox
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.25mao.BubbleBox_1.0-9_iphoneos-arm64e.deb
+Size: 2143388
+MD5sum: b311eb00cd1aeeba58c8dd45fdb963d7
+SHA1: 5e2a4940bec2603d48d1833cd3618b3c2b813c30
+SHA256: 1d2bc35c1d85235506fd5875ca1b3fc95d44c3f8b3ed5ae73581d21454906eb8
+Section: Tweaks
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Name: 气泡盒子
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.8
 Architecture: iphoneos-arm64
