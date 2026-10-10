@@ -114,15 +114,15 @@ Author: Jenia; original media internals credit therealhoodboy / CC26
 Name: 系统播放器
 
 Package: com.qimiao.WCRefine
-Version: 2.1-9
+Version: 2.2-1
 Architecture: iphoneos-arm64e
 Maintainer: 热心网友
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.qimiao.wcrefine_2.1-9_iphoneos-arm64e.deb
-Size: 10987628
-MD5sum: a61f5dca9256049d8a4f843975aba23c
-SHA1: 2a443eec41363d65dc11d1fd10113d21d1330b71
-SHA256: 53a8ea9b91ec7e71cbfeafbace030b92ad3cc63d0757cd8ff830ceefef74b404
+Filename: debs/com.qimiao.wcrefine_2.2-1_iphoneos-arm64e.deb
+Size: 10959668
+MD5sum: 98f5a70760ec38c7dd1209d8ae1b9cb5
+SHA1: 5f834bed118f75aaef208de827e4a711754ff9d9
+SHA256: 4c4ed9e24afaedf1bef01b8a564946538c17f534838c2e80bad4effdc8dad28e
 Section: Tweaks
 Priority: optional
 Description: 微信优化的重制版，上百种功能优化你的微信。
