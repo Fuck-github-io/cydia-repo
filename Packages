@@ -178,6 +178,24 @@ Description: 轻量后台守护插件，支持多种运行方式与任务角色�
 Author: crctdd
 Name: StayAlive Lite
 
+Package: com.cydia.love.fanqiehehe-Rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: Ant 蚂蚁源™ <admin@cydia.pro>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.cydia.love.fanqiehehe-Rootless_0.1-1_iphoneos-arm64.deb
+Size: 49936
+MD5sum: 509d70ffbf6691c7bd6f7ae92528ab47
+SHA1: bf39f706e70eb742f812398c8d6d733d9d64f207
+SHA256: e7762733c48845d262afd16c8d67175ef2cee38123fa4371555cfa3ecff63a1d
+Section: 应用插件
+Description: 一款破解短剧的插件，貌似支持解锁红果短剧（测试的是6.4.1）、番茄小说、番茄畅听等，感谢iOS宝藏开发！精神小伙们可以试试！非常的不错，爱看短剧的福利！应该只能介绍上写的这三款。
+Tag: 1
+Author: iosrxwy
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 短剧破解
+Sponsor: Ant 蚂蚁源™ <https://apt.cydia.pro/>
+
 Package: com.local.ccaplayer.reextract
 Version: 2.5
 Architecture: iphoneos-arm64
