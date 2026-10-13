@@ -7,12 +7,12 @@ Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 小冷精品推推荐 越狱插件软件源
 MD5Sum:
-  8e8f5f879ddca738013b997eb9a2f506 14616 Packages
-  eeef9a7e695ea84cac49cd88d46b9efd 5778 Packages.gz
-  5133e661bfaf0d29896e3de0bafc7b2f 5534 Packages.bz2
-  1efc7435d8269a3488a20947ec538b4c 5212 Packages.xz
+  1a899f1d5ec05a0fcad696116f1c1d96 15139 Packages
+  41be004556a30f8bda853b937d6d2b02 5915 Packages.gz
+  219ec722a79e62696eee2bbc5dbdad6f 5646 Packages.bz2
+  908f2eb169926cf178b96c01bd81c176 5320 Packages.xz
 SHA256:
- 485ce946512136b45112a61e06aa1a784ae0cce55cb5566b9a8a3befda4e3197 14616 Packages
- 44a7050361588e6f2a42afd40e1b6f7bd452f937b03b0c2d3117d3864a4bce2b 5778 Packages.gz
- 4bcc09982e16c5332397f1041dcd2b874fa53350cff8f4b0ff0a7015ad32322b 5534 Packages.bz2
- 2322a9e3f8dbbcd6ed917a437766d31fc7dcd9e0afedcdc9f7d1f2b9f9a1c371 5212 Packages.xz
+ ee355611fc9a8f5ac6888da0c889000ace97e75e9141b7457865b284c925e490 15139 Packages
+ 97bbf0412277e088de2d377cadf190e753b8ca03ef59f8a8a1de593fa1794ae9 5915 Packages.gz
+ c81c68edc1d6b1dd1c13ff1725d5bcd23bc3058f81c4134d17e155c86b480a84 5646 Packages.bz2
+ 1a0a9b83571e0d1db14382efa520d8ad0e3758a03fdc024a89acd279cbf9b5eb 5320 Packages.xz
