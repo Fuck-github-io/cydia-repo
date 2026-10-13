@@ -49,6 +49,23 @@ Author: Mao
 Name: 微信插件管理
 Sponsor: admin@25mao.com
 
+Package: com.25mao.wcplugins.rootless
+Version: 0.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/com.25mao.wcplugins.rootless_0.1-6_iphoneos-arm64.deb
+Size: 17156
+MD5sum: 15bdc7897e4a12b5e3b0b8772e56660e
+SHA1: 3f696c14cb14bc2f680f999b4173c055b6479e2c
+SHA256: 18d632906b886d8844779715cb1072f5c27045abe2e7a4370241e497813dcb52
+Section: Rootless
+Priority: optional
+Description: 插件管理-Rootless
+Author: Mao
+Name: 微信插件管理-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.8
 Architecture: iphoneos-arm64
