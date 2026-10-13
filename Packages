@@ -32,6 +32,23 @@ Description: 微信气泡插件
 Author: Mao
 Name: 气泡盒子
 
+Package: com.25mao.wcplugins
+Version: 0.1-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.25mao.wcplugins_0.1-6_iphoneos-arm.deb
+Size: 17118
+MD5sum: 2f9423914a6ebbf0c5f03210fad0e4e4
+SHA1: eed25dbf0b22a1ed2aee41ef08fe7f6116f3c73f
+SHA256: 9a79edde12e40b7a1b650d37823588cdd8237fb52ef8c1729a34540d9be4ba91
+Section: 微信插件
+Priority: optional
+Description: 微信插件收纳
+Author: Mao
+Name: 微信插件管理
+Sponsor: admin@25mao.com
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.8
 Architecture: iphoneos-arm64
